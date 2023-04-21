@@ -4,8 +4,11 @@
 Скачайте файл trongen в отдельную папку.
 Откройте папку с файлом в терминале - cd путь/к/папке
 
-Использование
+Использование MacOS
 ./trongen tron --prefix=xxxx --suffix=xxx --concurrency=x
+
+Использование Windows
+trongen.exe tron --prefix=xxx --suffix=xxx --concurrency=x
 
 prefix - символы в начале адреса, должен начинаться с латинской 'T'
 suffix - символы в конце адреса 
